@@ -1,7 +1,48 @@
 {
-    "name": "",
-    "short_name": "",
-    "icons": "",
+    "name": "budgetTrackerPWA-byMakWils",
+    "short_name": "budgetTracker",
+    "icons": [
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        }
+      ],
     "theme_color": "",
     "background_color": "",
     "start_url": "",
